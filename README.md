@@ -1,7 +1,7 @@
-# fiexapi
+# Fiex API Document
 *Read this in English: [English](api_EN.md)
 
-# FBSEX API Document
+
 
 # HTTP API
 
